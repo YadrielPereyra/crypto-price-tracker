@@ -26,10 +26,8 @@ A simple web app that allows users to check the live USD price of any cryptocurr
 1. Clone this repository:
    ```bash
    git clone https://github.com/YadrielPereyra/crypto-price-tracker.git
-Author
+## Author
+- [Yadriel Pereyra](https://github.com/YadrielPereyra)
 
-Yadriel Pereyra
-
-License
-
-MIT License
+## License
+This project is open source under the MIT license.
